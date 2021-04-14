@@ -21,8 +21,7 @@ An application where the user can create transactions that will be divided into 
 # Techs
 
  - [Next.js](https://nextjs.org/) 
- - [Stripe](https://stripe.com/) 
- - [FaunaDB](https://fauna.com/) 
+ - [Mirage.js](https://miragejs.com/)  
  - [React.js](https://reactjs.org/)
  - [TypeScript](https://www.typescriptlang.org/)
 
