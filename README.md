@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/public/favicon.png" width="120" />    
+    <img src="/.github/rocketseat.png" width="120" />    
     <h1>Dt.money</h1>  
     <p>🏦 Transaction Manager.</p>    
     <hr />    
@@ -50,5 +50,5 @@ An application where the user can create transactions that will be divided into 
   <h1>Open Source</h1>
   <sub>Copyright © 2021-present, zevdvlpr.</sub>
   <p>Dt.money <a href="https://github.com/zevdvlpr/ignite-reactjs-dtmoney/tree/dev/LICENSE">is MIT licensed 💖</a></p>
-  <img src="/public/favicon.png" width="35" />
+  <img src="/.github/rocketseat.png" width="35" />
 </div>
